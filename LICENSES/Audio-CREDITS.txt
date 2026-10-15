@@ -1,0 +1,22 @@
+Synthex audio sources
+
+Battle music: "Sketch Forest" by PeriTune / Sei Mutsuki
+https://peritune.com/blog/2019/02/20/sketch_forest/
+
+Map and title music: "Whisper" by PeriTune / Sei Mutsuki
+https://peritune.com/blog/2015/11/15/whisper/
+
+Both tracks are licensed under Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+https://peritune.com/about/
+The composer-provided loop recordings are used without editing.
+
+Sound effects: RPG Audio and Interface Sounds by Kenney
+https://kenney.nl/assets/rpg-audio
+https://kenney.nl/assets/interface-sounds
+
+Both Kenney sound packs are published under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Game versions are converted, level-adjusted and trimmed.
+Selected sound effects are layered and filtered.
