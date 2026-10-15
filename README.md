@@ -6,6 +6,8 @@
 
 ## 실행과 전체화면
 
+첫 실행 시 약 44MB를 내려받습니다. 원본 일러스트는 보존하고 웹 버전의 이미지 데이터만 최적화했습니다.
+
 PC 브라우저에서 링크를 열고, 로딩이 끝나면 **전체화면으로 플레이**를 누르세요. **Esc**를 누르면 전체화면에서 나옵니다. 창에서 플레이를 선택한 경우에도 화면 오른쪽 위의 **전체화면** 버튼으로 전환할 수 있습니다.
 
 ## 조작법
@@ -23,3 +25,4 @@ PC 브라우저에서 링크를 열고, 로딩이 끝나면 **전체화면으로
 
 - 음악: PeriTune / Sei Mutsuki — Sketch Forest, Whisper (CC BY 4.0). 효과음: Kenney (CC0). [출처와 이용 조건](LICENSES/Audio-CREDITS.txt).
 - 글꼴: Wanted Sans, Liberation Sans — [Wanted Sans 라이선스](LICENSES/WantedSans-OFL.txt), [Liberation Sans 라이선스](LICENSES/LiberationSans-OFL.txt).
+
