@@ -65,11 +65,11 @@
     windowed.addEventListener("click", () => play(false));
     fullscreen.addEventListener("click", enterFullscreen);
     const buildUrl = "Build";
-    const dataParts = /* SYNTHEX_DATA_PARTS */ [{"bytes":33554432,"name":"WebGL.data.unityweb.part00"},{"bytes":33554432,"name":"WebGL.data.unityweb.part01"},{"bytes":33554432,"name":"WebGL.data.unityweb.part02"},{"bytes":30197340,"name":"WebGL.data.unityweb.part03"}];
+    const dataParts = /* SYNTHEX_DATA_PARTS */ [{"name":"WebGL.data.unityweb.bec855f8c0c3.part00","bytes":33554432},{"name":"WebGL.data.unityweb.bec855f8c0c3.part01","bytes":33554432},{"name":"WebGL.data.unityweb.bec855f8c0c3.part02","bytes":33554432},{"name":"WebGL.data.unityweb.bec855f8c0c3.part03","bytes":30198426}];
     const config = {
-      dataUrl: buildUrl + "/WebGL.data.unityweb",
-      frameworkUrl: buildUrl + "/WebGL.framework.js.unityweb",
-      codeUrl: buildUrl + "/WebGL.wasm.unityweb",
+      dataUrl: buildUrl + "/WebGL.data.unityweb?v=bec855f8c0c3",
+      frameworkUrl: buildUrl + "/WebGL.framework.js.unityweb?v=bec855f8c0c3",
+      codeUrl: buildUrl + "/WebGL.wasm.unityweb?v=bec855f8c0c3",
       streamingAssetsUrl: "StreamingAssets",
       companyName: "DefaultCompany",
       productName: "Synthex",
@@ -78,7 +78,7 @@
       devicePixelRatio: Math.min(window.devicePixelRatio || 1, 2)
     };
     const loader = document.createElement("script");
-    loader.src = buildUrl + "/WebGL.loader.js";
+    loader.src = buildUrl + "/WebGL.loader.js?v=bec855f8c0c3";
     function failed(error) {
       console.error(error);
       progress.hidden = true;
